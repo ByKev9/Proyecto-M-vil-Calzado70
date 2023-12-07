@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881137142864",
+    "project_id": "logincalzado",
+    "storage_bucket": "logincalzado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881137142864:android:bba7c7b611d75d0a901555",
+        "android_client_info": {
+          "package_name": "com.cdp.prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9tT0VBTkIc7a9mVdfSoIOByiYBzNLsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
